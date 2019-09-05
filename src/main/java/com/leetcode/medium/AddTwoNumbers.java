@@ -1,6 +1,6 @@
 package com.leetcode.medium;
 
-import com.leetcode.common.ListNode;
+import com.leetcode.datastructures.ListNode;
 
 /**
  * <PRE>
