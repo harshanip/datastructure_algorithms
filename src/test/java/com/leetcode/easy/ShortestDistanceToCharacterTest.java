@@ -18,8 +18,6 @@ public class ShortestDistanceToCharacterTest {
         char C = 'e';
         int[] expected = { 3, 2, 1, 0};
         int[] actual=new ShortestDistanceToCharacter().shortestToChar(S, C);
-        common.Printer.print(expected);
-        common.Printer.print(actual);
         assertTrue(Arrays.equals(expected, actual));
     }
 
