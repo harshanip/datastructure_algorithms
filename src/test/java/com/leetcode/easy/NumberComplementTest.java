@@ -30,4 +30,13 @@ public class NumberComplementTest {
         assertEquals(expected, actual);
     }
 
+    
+    @Test
+    public void test3() { 
+        //10 ->01
+        int input=3,expected=0;
+        int actual=new NumberComplement().findComplement(input);
+        assertEquals(expected, actual);
+    }
+
 }
