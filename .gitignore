@@ -6,3 +6,5 @@ target/*
 target
 src/main/java/com/leetcode/hard/
 src/test/java/com/leetcode/hard/
+src/test/java/com/leetcode/easy/SortedSquareArrays.java
+src/test/java/NextLargerNumberTest.java
