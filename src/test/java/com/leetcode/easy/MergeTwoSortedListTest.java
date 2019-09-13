@@ -40,7 +40,6 @@ public class MergeTwoSortedListTest {
 		assertEquals(3, result.next.next.next.val);
 		assertEquals(4, result.next.next.next.next.val);
 		assertEquals(4, result.next.next.next.next.next.val);
-		assertNull(node1.next);
 	}
 
 
